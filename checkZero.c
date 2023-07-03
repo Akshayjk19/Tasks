@@ -24,3 +24,5 @@ if(count == 1)
     printf("The Array Has More Than One Zero");
     
 }
+return 0;
+}
